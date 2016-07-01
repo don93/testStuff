@@ -1,3 +1,4 @@
+
 ---
 title: Writing Functions that use Iteration and Collections
 type: Lab
@@ -17,7 +18,7 @@ creator:
 Dianna's Dinosaur and Donut Emporium needs your help! We have just received a new shipment of our specialty products and the inventory system is on the fritz. The owner (Dianna) has heard from your manager that the new summer intern knows something about computers and storing things in them. Just follow the steps outlined below to fix this mess and hopefully advance up the corporate ladder!
 
 #### Requirements
-Follow the 5 steps outlined below. Make sure that each step is part of it's `OWN` function! The program should ask again for input in cases in which values are incorrectly added (i.e. typing in a letter when a price is asked for). 
+Follow the 5 steps outlined below. Make sure that each step is part of it's `OWN` function! The program should ask again for input in cases in which values are incorrectly added (i.e. typing in a letter when a price is asked for).
 
 #### Reminder
 
@@ -44,7 +45,7 @@ public static void askAQuestion() {
 
 3. Write a function that removes a product from the inventory when they type in "Delete". For example: "Delete 3" should remove the third item in the collection (not the fourth!).
 
-4. Dianna has trouble remembering things after her tragic Brontosaurus accident. Write a function for a "Help" command so that she can see all the different actions she can perform in the program. This should print out explanations for the commands in steps 1-3. 
+4. Dianna has trouble remembering things after her tragic Brontosaurus accident. Write a function for a "Help" command so that she can see all the different actions she can perform in the program. This should print out explanations for the commands in steps 1-3.
 
 5. Write a function for a home screen to welcome users to Diannas every time they insert a command. The screen should contain the name "Dianna's Dinosaur & Donut Emporium" and the list of possible commands (Help gives a more detailed explanation).
 
