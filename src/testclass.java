@@ -21,7 +21,7 @@ public class testclass {
         }
 
     }
-
+//add some comment
 
     private static void collectInput () {
         System.out.println("Please input your command");
